@@ -1,0 +1,38 @@
+let felm =`[
+    {
+        "name": "MANIFEST",
+        "deskrbchen": "b",
+        "img":"capture_20220713222232.png",
+        "likes": 0
+    },
+    {
+        "name": "STRANGER THINGS",
+        "deskrbchen": "b",
+        "img": "capture_20220713222249.png",
+        "likes": 0
+    },
+    {
+        "name": "BLACKLIST",
+        "deskrbchen": "b",
+        "img":"capture_20220713222302.png",
+        "likes": 0
+    },
+    {
+        "name": "NEW AMSTERDAM",
+        "deskrbchen": "b",
+        "img":"capture_20220713222323.png",
+        "likes": 0
+    },
+    {
+        "name": "SNIPER ",
+        "deskrbchen": "b",
+        "img":"capture_20220713223813.png",
+        "likes": 0
+    },
+    {
+        "name": "Good Doctor",
+        "deskrbchen": "b",
+        "img":"capture_20220713222423.png",
+        "likes": 0
+    }
+]`;
